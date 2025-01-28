@@ -186,7 +186,7 @@ justify-content: space-between;
 margin: -10px 0 10px;
 font-weight: 500;
 }
-
+/* updated checkbox */
 .remember-forgot input[type="checkbox"] {
   position:relative;
   width: 20px;
